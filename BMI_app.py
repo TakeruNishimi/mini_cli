@@ -5,5 +5,6 @@ def main():
     print("BMIは ",bmi)
 
 
+
 if __name__ == '__main__':
     main()
